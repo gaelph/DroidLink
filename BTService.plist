@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0001 - ServiceClassIDList</key>
+	<array>
+		<data>hQy1K4kgg6RhTXqT3HyYDA==</data>
+		<data>AAARAQAAEACAAACAX5s0+w==</data>
+	</array>
+	<key>0004 - ProtocolDescriptorList</key>
+	<array>
+		<array>
+			<data>AQA=</data>
+		</array>
+		<array>
+			<data>AAM=</data>
+			<dict>
+				<key>DataElementSize</key>
+				<integer>1</integer>
+				<key>DataElementType</key>
+				<integer>1</integer>
+				<key>DataElementValue</key>
+				<integer>30</integer>
+			</dict>
+		</array>
+	</array>
+	<key>0005 - BrowseGroupList</key>
+	<array>
+		<data>AAARAQAAEACAAACAX5s0+w==</data>
+		<dict>
+			<key>DataElementSize</key>
+			<integer>1</integer>
+			<key>DataElementType</key>
+			<integer>1</integer>
+			<key>DataElementValue</key>
+			<data>AQI=</data>
+		</dict>
+	</array>
+	<key>0100 - Service Name</key>
+	<string>DroidLink</string>
+</dict>
+</plist>
